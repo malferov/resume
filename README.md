@@ -1,6 +1,6 @@
 ## PERSONAL DATA
 a | b
-- | -
+--- | ---
 First Name | Maxim
 Surname | Alferov
 E-mail | `malferov44@gmail.com`
@@ -16,7 +16,7 @@ Strong background in automation across various technologies. Competent in cloud 
 ## SKILL SCORES
 ### low / mid / high
 a | &nbsp; | b | &nbsp;
-- | - | - | -
+--- | --- | --- | ---
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
 HCL + Terraform | `high` | Ansible | `low`
