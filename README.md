@@ -13,7 +13,7 @@ Address | Utrecht, Netherlands
 ## SUMMARY
 Strong background in automation across various technologies. Competent in cloud computing and infrastructure as code concepts. Practical experience of migrating infrastructure to the cloud providers and provision resources using Terraform. Highly knowledgeable in Python and Bash, as well as extensive experience in configuration management tools like Puppet, Chef or Ansible. Passionate about agile software development practices and quality improvement through the effective use of knowledge, information, and communication. Excellent troubleshooting and analytical skills. Ability to meet deadlines and handle multiple projects.
 
-## SKILLS SCORE
+## SKILL SCORES
 ### low / mid / high
 a | &nbsp; | b | &nbsp;
 - | - | - | -
@@ -60,3 +60,106 @@ https://linkedin.com/in/malferov
 
 ## FOREIGN LANGUAGE
 English `IELTS 6.5`
+
+## WORK EXPERIENCE
+### 09.2016 – present
+AerData B.V., a Boeing Company, Amsterdam, http://aerdata.com  
+Role **Devops Engineer**
+
+Responsibilities
+- Configuration and management SaaS environment. Implementation of continuous delivery approach. Automation by turning infrastructure into code using Puppet
+- Infrastructure as code project for NetScaler platform
+- Infrastructure as code project for Elasticsearch stack
+  * https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch
+- Migration environment to Azure
+
+Technologies
+- Puppet, Elasticsearch, Linux, NetScaler, Azure, VSTS, Git, Ruby
+
+### 05.2016 – 08.2016
+airfy GmbH, Berlin, http://airfy.com  
+Freelance  
+Role **Devops Engineer**
+
+Responsibilities
+- Ansible roles development
+- Migration environment to AWS ES2, S3, IoT
+- Packaging and deployment automation
+
+Technologies
+- Ansible, Amazon cloud, Python, YAML, Git, Bash, CentOS
+
+### 09.2015 – 07.2016
+PSBank, Moscow, http://psbank.ru  
+Role **Tech Lead**
+
+Responsibilities
+- Deployment pipeline, release management, continuous delivery
+- Mentoring of software engineers team
+- Improvement of application life cycle process
+
+Technologies
+- Jenkins, Jira, SVN, RedGate
+- Maven, Ant, WebSphere
+- MSBuild, MSDeploy, NuGet, IIS
+- Oracle, PL/SQL, SQL Server, SQLPackager
+- RHEL 7, Windows Server
+
+### 06.2008 – 07.2015
+UniCredit Bank, Moscow, http://unicredit.ru  
+Role **Software Architect**
+
+Responsibilities
+- Solution proposals development
+- Examine existing IT landscape and infrastructure
+- System integration
+- Analysis of business requirements and application features
+- Managed team size up to five people
+
+Technologies
+- SOA, ESB, DWH, ETL
+- SAP BI BusinessObjects
+- SAS Data Management
+- HP PPM, HPSM
+- PowerDesigner
+
+### 08.2004 – 06.2008
+International Moscow Bank  
+Role **Software Engineer**
+
+Responsibilities
+- Data warehousing
+- Application support and incident management
+
+Technologies
+- SAP BI BusinessObjects
+- IBM MQ MB, WebLogic, Tomcat
+- Oracle, PL/SQL, SQL Server, DTS, SSIS
+- Windows Server
+
+### 08.2000 – 06.2004
+Siberia Telecom JSC  
+Role **Sysops**
+
+Responsibilities
+- Managing environment and infrastructure
+- Cisco networking
+
+Technologies
+- TCP/IP, LAN, WAN, FreeBSD
+- C programming
+
+## EDUCATION
+### 2000 – 2004 Siberian Division of the Russian Academy of Sciences
+#### Institute of Coal and Coal Chemistry
+http://en.wikipedia.org/wiki/Russian_Academy_of_Sciences  
+Postgraduate study, **Ph.D.**  
+Mathematical modeling, Numerical methods and Programs  
+The ph. d. thesis was devoted to development of analytical system, and forecasting of technical and economic indices of coal enterprises for short-term period. This thesis used technology of artificial neural networks.
+
+### 1995 – 2000 Kemerovo State University
+http://en.wikipedia.org/wiki/Kemerovo_State_University  
+Specialist degree in **applied mathematics**
+
+## REFEREES
+Upon request
