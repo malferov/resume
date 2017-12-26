@@ -19,9 +19,9 @@ a | &nbsp; | b | &nbsp;
 --- | --- | --- | ---
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
-HCL + Terraform | `high` | Ansible | `low`
+HCL + Terraform | `mid` | Ansible | `low`
 YAML | `high` | AWS | `mid`
-PHP | `high` | Azure | `mid`
+PHP | `mid` | Azure | `mid`
 SQL | `high` | DigitalOcean | `high`
 C | `high` | Linux | `high`
 PowerShell | `low` | Windows | `low`
