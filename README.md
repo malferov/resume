@@ -63,7 +63,7 @@ English `IELTS 6.5`
 
 ## WORK EXPERIENCE
 ### 09.2016 – present
-AerData B.V., a Boeing Company, Amsterdam, http://aerdata.com  
+AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
 Role **Devops Engineer**
 
 Responsibilities
