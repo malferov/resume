@@ -78,7 +78,7 @@ Technologies
 
 ### 05.2016 – 08.2016
 airfy GmbH, Berlin, http://airfy.com  
-Freelance  
+Freelance, remote  
 Role **Devops Engineer**
 
 Responsibilities
