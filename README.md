@@ -41,7 +41,7 @@ https://linkedin.com/in/malferov
 ## TECHNOLOGIES AND TOOLS
 - Puppet, Chef, Ansible
 - Terraform, Packer
-- AWS EC2, S3, IoT
+- AWS IAM, EC2, ELB, S3, IoT
 - Azure, VSTS, PS DSC
 - Elasticsearch, Kibana, Logstash
 - Redis, CouchDB
