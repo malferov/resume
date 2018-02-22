@@ -24,7 +24,7 @@ YAML | `high` | Azure | `mid`
 PHP | `mid` | DigitalOcean | `high`
 SQL | `high` | Linux | `high`
 C | `high` | Windows | `low`
- | | PowerShell | `low`
+PowerShell | `low` | |
 
 ## FOR
 - Migrating infrastructure to AWS or other providers using Terraform
