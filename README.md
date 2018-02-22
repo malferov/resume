@@ -4,7 +4,6 @@ a | b
 First Name | Maxim
 Surname | Alferov
 E-mail | `malferov44@gmail.com`
-Mobile | `+31615354420`
 Address | Utrecht, Netherlands
 
 ## DESIRED POSITION
@@ -20,11 +19,12 @@ a | &nbsp; | b | &nbsp;
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
 HCL + Terraform | `mid` | Ansible | `low`
-YAML | `high` | AWS | `mid`
-PHP | `mid` | Azure | `mid`
-SQL | `high` | DigitalOcean | `high`
-C | `high` | Linux | `high`
-PowerShell | `low` | Windows | `low`
+Go | `low` | AWS | `mid`
+YAML | `high` | Azure | `mid`
+PHP | `mid` | DigitalOcean | `high`
+SQL | `high` | Linux | `high`
+C | `high` | Windows | `low`
+ | | PowerShell | `low`
 
 ## FOR
 - Migrating infrastructure to AWS or other providers using Terraform
