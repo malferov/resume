@@ -19,12 +19,12 @@ a | &nbsp; | b | &nbsp;
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
 HCL + Terraform | `mid` | Ansible | `low`
-Go | `low` | AWS | `mid`
+Go | `mid` | AWS | `mid`
 YAML | `high` | Azure | `mid`
+PowerShell | `low` | Docker | `mid`
 PHP | `mid` | DigitalOcean | `high`
 SQL | `high` | Linux | `high`
 C | `high` | Windows | `low`
-PowerShell | `low` | |
 
 ## FOR
 - Migrating infrastructure to AWS or other providers using Terraform
@@ -35,19 +35,20 @@ PowerShell | `low` | |
 
 ## LINKS
 https://github.com/malferov/iac  
+https://github.com/terraform-providers/terraform-provider-alicloud/commits?author=malferov  
 https://github.com/malferov/mintos  
 https://linkedin.com/in/malferov
 
 ## TECHNOLOGIES AND TOOLS
-- Puppet, Chef, Ansible
 - Terraform, Packer
-- AWS IAM, EC2, ELB, S3, IoT
-- Azure, VSTS, PS DSC
-- Elasticsearch, Kibana, Logstash
+- AWS IAM, EC2, ELB, S3, VPC, Route 53, IoT
+- Puppet, Chef, Ansible
+- Azure, VSTS, PS DSC, NuGet
+- Elasticsearch, Kibana, Logstash, Beats
 - Redis, CouchDB
 - GitHub, Bitbuket, CircleCI
 - NewRelic, PagerDuty
-- Git, Svn, Jenkins
+- Git, Svn, Jenkins, Teamcity
 - Linux, FreeBSD, Windows
 - Nginx, NetScaler, HAProxy
 - Oracle, SQL Server, MySQL
@@ -63,9 +64,20 @@ https://linkedin.com/in/malferov
 English `IELTS 6.5`
 
 ## WORK EXPERIENCE
-### 09.2016 – present
+### 03.2018 – present
+eVision Industry Software, The Hauge, https://www.evision-software.com  
+**Product Operations Engineer**
+
+Responsibilities
+- Infrastructure as code with Terraform and Packer
+- Alignment and operational stability of Teamcity CI pipeline
+
+Technologies
+- AWS, Terraform, Packer, Teamcity, Elasticsearch, Linux
+
+### 09.2016 – 02.2018
 AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
-Role **Devops Engineer**
+**Devops Engineer**
 
 Responsibilities
 - Configuration and management SaaS environment. Implementation of continuous delivery approach. Automation by turning infrastructure into code using Puppet
@@ -80,7 +92,7 @@ Technologies
 ### 05.2016 – 08.2016
 airfy GmbH, Berlin, http://airfy.com  
 Freelance, remote  
-Role **Devops Engineer**
+**Devops Engineer**
 
 Responsibilities
 - Ansible roles development
@@ -92,7 +104,7 @@ Technologies
 
 ### 09.2015 – 07.2016
 PSBank, Moscow, http://psbank.ru  
-Role **Tech Lead**
+**Tech Lead**
 
 Responsibilities
 - Deployment pipeline, release management, continuous delivery
@@ -108,7 +120,7 @@ Technologies
 
 ### 06.2008 – 07.2015
 UniCredit Bank, Moscow, http://unicredit.ru  
-Role **Software Architect**
+**Software Architect**
 
 Responsibilities
 - Solution proposals development
@@ -126,7 +138,7 @@ Technologies
 
 ### 08.2004 – 06.2008
 International Moscow Bank  
-Role **Software Engineer**
+**Software Engineer**
 
 Responsibilities
 - Data warehousing
@@ -140,7 +152,7 @@ Technologies
 
 ### 08.2000 – 06.2004
 Siberia Telecom JSC  
-Role **Sysops**
+**Sysops**
 
 Responsibilities
 - Managing environment and infrastructure
