@@ -42,6 +42,7 @@ https://linkedin.com/in/malferov
 ## TECHNOLOGIES AND TOOLS
 - Terraform, Packer
 - AWS IAM, EC2, ELB, S3, VPC, Route 53, IoT
+- Docker, AWS ECS
 - Puppet, Chef, Ansible
 - Azure, VSTS, PS DSC, NuGet
 - Elasticsearch, Kibana, Logstash, Beats
