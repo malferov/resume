@@ -4,7 +4,7 @@ a | b
 First Name | Maxim
 Surname | Alferov
 E-mail | `malferov44@gmail.com`
-Address | The Hauge, Netherlands
+Address | The Hague, Netherlands
 
 ## DESIRED POSITION
 **Senior Devops Engineer**
