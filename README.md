@@ -66,7 +66,7 @@ English `IELTS 6.5`
 
 ## WORK EXPERIENCE
 ### 03.2018 – present
-eVision Industry Software, The Hauge, https://www.evision-software.com  
+eVision Industry Software, The Hague, https://www.evision-software.com  
 **Product Operations Engineer**
 
 Responsibilities
