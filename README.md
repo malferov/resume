@@ -49,7 +49,7 @@ https://linkedin.com/in/malferov
 - Redis, CouchDB
 - GitHub, Bitbuket, CircleCI
 - NewRelic, PagerDuty
-- Git, Svn, Jenkins, Teamcity, Sonarqube
+- Git, Svn, Jenkins, Teamcity, SonarQube
 - Linux, FreeBSD, Windows
 - Nginx, NetScaler, HAProxy
 - Oracle, SQL Server, MySQL
@@ -72,9 +72,10 @@ eVision Industry Software, The Hague, https://www.evision-software.com
 Responsibilities
 - Infrastructure as code with Terraform and Packer
 - Alignment and operational stability of Teamcity CI pipeline
+- SonarQube and Nightwatch to keep quality and velocity
 
 Technologies
-- AWS, Terraform, Packer, Teamcity, Sonarqube, Elasticsearch, Linux
+- AWS, Terraform, Packer, Teamcity, SonarQube, Elasticsearch, Linux
 
 ### 09.2016 – 02.2018
 AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
