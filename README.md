@@ -49,7 +49,7 @@ https://linkedin.com/in/malferov
 - Redis, CouchDB
 - GitHub, Bitbuket, CircleCI
 - NewRelic, PagerDuty
-- Git, Svn, Jenkins, Teamcity
+- Git, Svn, Jenkins, Teamcity, Sonarqube
 - Linux, FreeBSD, Windows
 - Nginx, NetScaler, HAProxy
 - Oracle, SQL Server, MySQL
@@ -74,7 +74,7 @@ Responsibilities
 - Alignment and operational stability of Teamcity CI pipeline
 
 Technologies
-- AWS, Terraform, Packer, Teamcity, Elasticsearch, Linux
+- AWS, Terraform, Packer, Teamcity, Sonarqube, Elasticsearch, Linux
 
 ### 09.2016 – 02.2018
 AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
