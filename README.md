@@ -18,8 +18,8 @@ a | &nbsp; | b | &nbsp;
 --- | --- | --- | ---
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
-HCL + Terraform | `mid` | Ansible | `low`
-Go | `mid` | AWS | `mid`
+HCL + Terraform | `high` | Ansible | `low`
+Go | `mid` | AWS | `high`
 YAML | `high` | Azure | `mid`
 PowerShell | `low` | Docker | `mid`
 PHP | `mid` | DigitalOcean | `high`
