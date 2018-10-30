@@ -67,7 +67,7 @@ English `IELTS 6.5`
 ## WORK EXPERIENCE
 ### 03.2018 – present
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
-https://wolterskluwer.com/company/newsroom/news/2018/10/wolters-kluwer-acquires-evision.html
+https://wolterskluwer.com/company/newsroom/news/2018/10/wolters-kluwer-acquires-evision.html  
 **Product Operations Engineer**
 
 Responsibilities
