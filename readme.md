@@ -1,21 +1,22 @@
 ## PERSONAL DATA
-a | b
---- | ---
+a          | b
+-----------|---
 First Name | Maxim
-Surname | Alferov
-E-mail | `malferov44@gmail.com`
-Address | Utrecht, Netherlands
+Surname    | Alferov
+E-mail     | `malferov44@gmail.com`
+Address    | The Hague, Netherlands
 
 ## DESIRED POSITION
 **Senior Devops Engineer**
 
 ## SUMMARY
-Strong background in automation across various technologies. Competent in cloud computing and infrastructure as code concepts. Practical experience of migrating infrastructure to the cloud providers and provision resources using Terraform. Highly knowledgeable in Python and Bash, as well as extensive experience in configuration management tools like Puppet, Chef or Ansible. Passionate about agile software development practices and quality improvement through the effective use of knowledge, information, and communication. Excellent troubleshooting and analytical skills. Ability to meet deadlines and handle multiple projects.
+Strong background in automation across various technologies. Competent in cloud computing and infrastructure as code concepts. 
+Practical experience of migrating infrastructure to cloud providers and provision resources using `terraform`. Highly knowledgeable about IaaS providers `aws`, `gcp` and `azure`. Extensive experience with deployment pipeline and application orchestration. Passionate about agile software development practices and quality improvement through the effective use of knowledge, information, and communication. Excellent troubleshooting and analytical skills. Ability to meet deadlines and handle multiple projects.
 
 ## SKILL SCORES
-### low / mid / high
-a | &nbsp; | b | &nbsp;
---- | --- | --- | ---
+### high / mid / low
+a   | &nbsp; | b | &nbsp;
+-------|-----| --- | ---
 Python | `high` | Puppet | `high`
 Bash | `high` | Chef | `low`
 HCL + Terraform | `mid` | Ansible | `low`
@@ -26,12 +27,12 @@ SQL | `high` | Linux | `high`
 C | `high` | Windows | `low`
 PowerShell | `low` | |
 
-## FOR
-- Migrating infrastructure to AWS or other providers using Terraform
-- Control finely granulated/or frequent changes using Puppet, Ansible or Chef
+## PROJECT TYPES
+- Migration of infrastructure to AWS or other cloud providers using `terraform`
 - Infrastructure as Code
-- Software development life cycle automation
-- Build cross platform images using Packer
+- Deployment pipeline and application life cycle automation
+- Application containerization
+- Configuration management using `puppet`, `chef` or `ansible`
 
 ## LINKS
 https://github.com/malferov/iac  
