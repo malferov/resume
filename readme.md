@@ -106,7 +106,7 @@ Responsibilities
   * https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch
 - Migration of infrastructure to Azure
 
-Keywords
+Keywords  
 `puppet` `azure` `vsts` `powershell` `iis` `elasticsearch` `netscaler` `git` `ruby` `linux`
 
 ### 05.2016 – 08.2016
@@ -119,7 +119,7 @@ Responsibilities
 - Migration environment to AWS EC2, S3, IoT
 - Building, packaging and deployment automation
 
-Keywords
+Keywords  
 `ansible` `aws` `python` `yaml` `git` `bash` `centos`
 
 ### 09.2015 – 07.2016
@@ -131,7 +131,7 @@ Responsibilities
 - Mentoring of software engineers team
 - Improvement of application life cycle process
 
-Keywords
+Keywords  
 - `jenkins` `jira` `svn` `redgate`
 - `java` `maven` `ant` `websphere`
 - `dotnet` `msbuild` `msdeploy` `nuget` `iis`
@@ -149,7 +149,7 @@ Responsibilities
 - Analysis of business requirements and application features
 - Managed team size up to five people
 
-Keywords
+Keywords  
 - `soa` `esb` `dwh` `etl`
 - `sap bi businessobjects`
 - `sas data danagement`
@@ -164,7 +164,7 @@ Responsibilities
 - Data warehousing
 - Application support and incident management
 
-Keywords
+Keywords  
 - `sap bi businessobjects`
 - `ibm mq mb` `weblogic` `tomcat`
 - `oracle` `pl/sql` `sqlserver` `dts` `ssis`
@@ -178,7 +178,7 @@ Responsibilities
 - Managing environment and infrastructure
 - Cisco networking
 
-Keywords
+Keywords  
 - `tcp/ip` `lan` `wan` `freebsd`
 - `C programming`
 
