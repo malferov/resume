@@ -76,6 +76,7 @@ https://linkedin.com/in/malferov
 - Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
 - Core Elasticsearch (Enrollment ID `#16698`)
 - Puppet practice exam `PPT-204` (score 85%)
+- SANS Cybersecurity Awareness Training
 
 ## FOREIGN LANGUAGE
 English `IELTS 7.0`
