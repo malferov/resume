@@ -21,8 +21,8 @@ HCL + Terraform | `high` | AWS        | `high`
 Python          | `high` | GCP        | `mid`
 Go              | `mid`  | Azure      | `mid`
 Node.js         | `low`  | Docker     | `mid`
-.NET Core       | `low`  | Kubernetes | `low`
-Bash            | `high` | Serverless | `mid`
+.NET Core       | `low`  | Kubernetes | `mid`
+Bash            | `high` | Serverless | `low`
 YAML            | `high` | Linux      | `high`
 PowerShell      | `low`  | Windows    | `low`
 PHP             | `mid`  | Puppet     | `high`
