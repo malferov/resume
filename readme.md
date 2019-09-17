@@ -1,75 +1,56 @@
 ## PERSONAL DATA
-a          | b
------------|---
+key        | value
+-----------|------
 First Name | Maxim
 Surname    | Alferov
 E-mail     | `malferov44@gmail.com`
 Address    | The Hague, Netherlands
 
-## DESIRED POSITION
-**Senior Devops Engineer**
-
 ## SUMMARY
-Strong background in automation across various technologies. Competent in cloud computing and infrastructure as code concepts. 
-Practical experience of migrating infrastructure to cloud providers and provision resources using `terraform`. Highly knowledgeable about IaaS providers `aws`, `gcp` and `azure`. Extensive experience with deployment pipeline and application orchestration. Passionate about agile software development practices and quality improvement through the effective use of knowledge, information, and communication. Excellent troubleshooting and analytical skills. Ability to meet deadlines and handle multiple projects.
+Can Do.  
+Cloud engineering.  
+Transition to Kubernetes and Docker.  
+Automated deployment.  
+Infrastructure as code.  
+Excellent troubleshooting and analytical skills.  
+Ability to meet deadlines and handle multiple projects.
 
-## TECH SKILL SCORE
-### high / mid / low
-a               | &nbsp; | b          | &nbsp;
---------------- | ------ | ---------- | ------
-HCL + Terraform | `high` | AWS        | `high`
-Python          | `high` | GCP        | `mid`
-Go              | `mid`  | Azure      | `mid`
-Node.js         | `low`  | Docker     | `mid`
-.NET Core       | `low`  | Kubernetes | `mid`
-Bash            | `high` | Serverless | `low`
-YAML            | `high` | Linux      | `high`
-PowerShell      | `low`  | Windows    | `low`
-PHP             | `mid`  | Puppet     | `high`
-SQL             | `high` | Chef       | `low`
-C               | `high` | Ansible    | `low`
+## TECH STACK
+key             | value
+--------------- | -----
+HCL + Terraform | `high`
+AWS             | `high`
+GCP             | `mid`
+Docker          | `mid`
+Kubernetes      | `mid`
+Python          | `high`
+Go              | `mid`
+Bash            | `high`
+Ansible         | `high`
+Puppet          | `high`
+Linux           | `high`
+Windows         | `low`
 
-## SOFT SKILL SCORE
+## SOFT SKILLS
 ### more or less developed
-a                       | &nbsp; | b                       | &nbsp;
------------------------ | ------ | ------------------------| ------
-personal effectiveness  | `more` | social intelligence     | `more`
-interaction             | `less` | emotional intelligence  | `less`
-intercession            | `less` | flexibility             | `more`
-socialization           | `more` | listening               | `less`
-communication           | `less` | negotiation             | `less`
-honesty                 | `more` | common sense            | `more`
-positive attitude       | `more` | empathy                 | `less` 
-
-## PROJECT TYPES
-- Migration of infrastructure to AWS or other cloud providers using `terraform`
-- Infrastructure as code
-- Deployment pipeline and application life cycle automation
-- Application containerization
-- Configuration management using `puppet`, `chef` or `ansible`
+key                     | value
+----------------------- | -----
+personal effectiveness  | `more`
+interaction             | `less`
+flexibility             | `more`
+socialization           | `more`
+communication           | `less`
+honesty                 | `more`
+positive attitude       | `more`
+negotiation             | `less`
 
 ## LINKS
+https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch  
+https://github.com/malferov/kaas  
 https://github.com/malferov/iac  
-https://github.com/terraform-providers/terraform-provider-alicloud/commits?author=malferov  
 https://github.com/malferov/mintos  
+https://github.com/terraform-providers/terraform-provider-alicloud/commits?author=malferov  
 https://linkedin.com/in/malferov
-
-## TECHNOLOGIES AND TOOLS
-- Terraform, Serverless
-- AWS, GCP, Azure
-- AliCloud, DigitalOcean
-- Kubernetes, Docker
-- Elasticsearch, Kibana, Logstash, Beats
-- Puppet, Chef, Ansible
-- Redis, CouchDB
-- GitHub, Bitbuket, CircleCI
-- NewRelic, PagerDuty
-- Git, Svn, Jenkins, Teamcity, SonarQube
-- Linux, FreeBSD, Windows
-- Nginx, NetScaler, HAProxy
-- Oracle, SQL Server, MySQL
-- IIS, WebLogic, WebSphere
-- Packer
 
 ## COURSES AND TESTS
 - Python Test Upwork (3.65 out of 5, Top 30% badge)
@@ -82,30 +63,52 @@ https://linkedin.com/in/malferov
 English `IELTS 7.0`
 
 ## WORK EXPERIENCE
-### 03.2018 – present
+### part-time
+
+#### 02.2019 - 08.2019 LinkORB B.V.
+Keywords  
+`kibana` `elastic api` `ansible` `terraform`
+
+#### 12.2017 - 06.2019 CibosMenu.com
+Keywords  
+`node.js` `terraform` `couchdb` `circleci`
+
+### full-time
+
+### 04.2019 – present
+Safened B.V., Fintech, Amsterdam, https://www.safened.com  
+**Senior DevOps Engineer**
+
+Responsibilities
+- I help our developers to deliver software product faster
+
+Keywords  
+`aws` `docker` `terraform` `dotnet` `kong api` `vault` `etcd`
+
+### 03.2018 – 03.2019
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
 https://wolterskluwer.com/company/newsroom/news/2018/10/wolters-kluwer-acquires-evision.html  
 **Product Operations Engineer**
 
 Responsibilities
 - Infrastructure as code with Terraform
-- Building and deploying Node.js and .NET Core applications
+- Building and deploying .NET Core and Node.js applications
 - Alignment and operational stability of Teamcity CI pipeline
 - SonarQube and Nightwatch to keep quality and velocity
 
 Keywords  
-`aws` `terraform` `nodejs` `dotnet` `teamcity` `sonarqube` `elasticsearch` `linux` `nuget` `packer`
+`aws` `terraform` `dotnet` `nodejs` `teamcity` `sonarqube` `elasticsearch` `linux` `nuget` `packer`
 
 ### 09.2016 – 02.2018
 AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
-**Devops Engineer**
+**DevOps Engineer**
 
 Responsibilities
-- Configuration management of SaaS environment. Implementation of continuous delivery approach. Automation by turning infrastructure into code using Puppet
-- Infrastructure as code project for NetScaler platform
-- Infrastructure as code project for Elasticsearch stack
+- Management of SaaS environment. Continuous delivery and automation. Turning infrastructure into code using Puppet
+- Production elasticsearch cluster
   * https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch
-- Migration of infrastructure to Azure
+- Infrastructure as code project for NetScaler platform
+- Migration infrastructure to Azure
 
 Keywords  
 `puppet` `azure` `vsts` `powershell` `iis` `elasticsearch` `netscaler` `git` `ruby` `linux`
@@ -113,19 +116,19 @@ Keywords
 ### 05.2016 – 08.2016
 airfy GmbH, Berlin, http://airfy.com  
 Freelance, remote  
-**Devops Engineer**
+**DevOps Engineer**
 
 Responsibilities
 - Ansible roles development
 - Migration environment to AWS EC2, S3, IoT
-- Building, packaging and deployment automation
+- Automation for building, packaging and deployment
 
 Keywords  
 `ansible` `aws` `python` `yaml` `git` `bash` `centos`
 
 ### 09.2015 – 07.2016
 PSBank, Moscow, http://psbank.ru  
-**Tech Lead**
+**Team Lead**
 
 Responsibilities
 - Deployment pipeline, release management, continuous delivery
@@ -141,10 +144,11 @@ Keywords
 
 ### 06.2008 – 07.2015
 UniCredit Bank, Moscow, http://unicredit.ru  
-**Software Architect**
+IT Architecture  
+**Software Engineer**
 
 Responsibilities
-- Solution proposals development
+- Solution proposals
 - Examine existing IT landscape and infrastructure
 - System integration
 - Analysis of business requirements and application features
@@ -173,7 +177,7 @@ Keywords
 
 ### 08.2000 – 06.2004
 Siberia Telecom JSC  
-**Sysops**
+**SysOps**
 
 Responsibilities
 - Managing environment and infrastructure
@@ -197,4 +201,3 @@ Specialist degree in **applied mathematics**
 
 ## REFEREES
 Upon request
-
