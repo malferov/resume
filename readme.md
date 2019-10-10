@@ -77,6 +77,7 @@ Keywords
 
 ### 04.2019 – present
 Safened B.V., Fintech, Amsterdam, https://www.safened.com  
+Safened rebrands successful KYC activities as Fourthline, https://www.fourthline.com  
 **Senior DevOps Engineer**
 
 Responsibilities
