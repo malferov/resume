@@ -46,6 +46,7 @@ negotiation             | `less`
 
 ## LINKS
 https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch  
+https://github.com/malferov/hello  
 https://github.com/malferov/kaas  
 https://github.com/malferov/iac  
 https://github.com/malferov/mintos  
@@ -63,7 +64,7 @@ https://linkedin.com/in/malferov
 English `IELTS 7.0`
 
 ## WORK EXPERIENCE
-### part-time
+### side-projects
 
 #### 02.2019 - 08.2019 LinkORB B.V.
 Keywords  
