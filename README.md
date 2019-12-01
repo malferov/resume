@@ -46,6 +46,7 @@ negotiation             | `less`
 
 ## LINKS
 https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch  
+http://www.ict.nsc.ru/jct/annotation/457?l=eng  
 https://github.com/malferov/hello  
 https://github.com/malferov/kaas  
 https://github.com/malferov/iac  
