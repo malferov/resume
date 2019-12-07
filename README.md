@@ -67,13 +67,20 @@ English `IELTS 7.0`
 ## WORK EXPERIENCE
 ### side-projects
 
-#### 02.2019 - 08.2019 LinkORB B.V.
+#### 11.2019 - 12.2019 BigDataBoutique.com
+Creating container registry proxy  
 Keywords  
-`kibana` `elastic api` `ansible` `terraform`
+`golang` `docker` `gitlab`
+
+#### 02.2019 - 08.2019 LinkORB B.V.
+ELK stack based setup for log and event analysis  
+Keywords  
+`kibana` `elasticsearch` `ansible` `terraform`
 
 #### 12.2017 - 06.2019 CibosMenu.com
+DevOps Terraform Build Package - Creating the Terraform build process for AWS and DigitalOcean  
 Keywords  
-`node.js` `terraform` `couchdb` `circleci`
+`nodejs` `terraform` `couchdb` `circleci`
 
 ### full-time
 
@@ -86,7 +93,7 @@ Responsibilities
 - I help our developers to deliver software product faster
 
 Keywords  
-`aws` `docker` `terraform` `dotnet` `kong api` `vault` `etcd`
+`aws` `docker` `terraform` `dotnet` `kong` `vault` `etcd`
 
 ### 03.2018 – 03.2019
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
