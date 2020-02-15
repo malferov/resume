@@ -55,6 +55,7 @@ https://github.com/terraform-providers/terraform-provider-alicloud/commits?autho
 https://linkedin.com/in/malferov
 
 ## COURSES AND TESTS
+- AWS Certified Solutions Architect - Associate - Practice (score 96%, `#M32476799`)
 - Python Test Upwork (3.65 out of 5, Top 30% badge)
 - Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
 - Core Elasticsearch (Enrollment ID `#16698`)
@@ -92,8 +93,14 @@ Safened rebrands successful KYC activities as Fourthline, https://www.fourthline
 Responsibilities
 - I help our developers to deliver software product faster
 
+Projects
+- HashiCorp Vault has been deployed in production environment
+- Kong API gateway with mTLS feature enabled (staging atm)
+- Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
+- Versioning and validating Azure Pipelines - transition to YAML syntax
+
 Keywords  
-`aws` `docker` `terraform` `dotnet` `kong` `vault` `etcd`
+`aws` `docker` `terraform` `azure devops` `dotnet` `kong` `vault` `etcd`
 
 ### 03.2018 – 03.2019
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
