@@ -55,7 +55,7 @@ https://github.com/terraform-providers/terraform-provider-alicloud/commits?autho
 https://linkedin.com/in/malferov
 
 ## COURSES AND TESTS
-- AWS Certified Solutions Architect - Associate - Practice (score 96%, `#M32476799`)
+- AWS Certified Solutions Architect - Associate - Practice (score 96%, `#1068317`)
 - Python Test Upwork (3.65 out of 5, Top 30% badge)
 - Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
 - Core Elasticsearch (Enrollment ID `#16698`)
