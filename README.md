@@ -216,5 +216,10 @@ The ph. d. thesis was devoted to development of analytical system, and forecast
 http://en.wikipedia.org/wiki/Kemerovo_State_University  
 Specialist degree in **applied mathematics**
 
+## Interests
+- RYA Yachtmaster Coastal
+- BHPA Club Pilot
+- chess.com
+
 ## REFEREES
 Upon request
