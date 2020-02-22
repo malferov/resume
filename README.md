@@ -72,14 +72,17 @@ English `IELTS 7.0`
 
 #### 11.2019 - 12.2019 BigDataBoutique.com
 Creating container registry proxy  
+
 `golang` `docker` `gitlab`
 
 #### 02.2019 - 08.2019 LinkORB B.V.
 ELK stack based setup for log and event analysis  
+
 `kibana` `elasticsearch` `ansible` `terraform`
 
 #### 12.2017 - 06.2019 CibosMenu.com
 DevOps Terraform Build Package - Creating the Terraform build process for AWS and DigitalOcean  
+
 `nodejs` `terraform` `couchdb` `circleci`
 
 ### full-time
