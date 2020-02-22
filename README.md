@@ -72,17 +72,14 @@ English `IELTS 7.0`
 
 #### 11.2019 - 12.2019 BigDataBoutique.com
 Creating container registry proxy  
-Keywords  
 `golang` `docker` `gitlab`
 
 #### 02.2019 - 08.2019 LinkORB B.V.
 ELK stack based setup for log and event analysis  
-Keywords  
 `kibana` `elasticsearch` `ansible` `terraform`
 
 #### 12.2017 - 06.2019 CibosMenu.com
 DevOps Terraform Build Package - Creating the Terraform build process for AWS and DigitalOcean  
-Keywords  
 `nodejs` `terraform` `couchdb` `circleci`
 
 ### full-time
@@ -101,7 +98,6 @@ Projects
 - Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
 - Versioning and validating Azure Pipelines - transition to YAML syntax
 
-Keywords  
 `aws` `docker` `terraform` `azure devops` `dotnet` `kong` `vault` `etcd`
 
 ### 03.2018 – 03.2019
@@ -115,7 +111,6 @@ Responsibilities
 - Alignment and operational stability of Teamcity CI pipeline
 - SonarQube and Nightwatch to keep quality and velocity
 
-Keywords  
 `aws` `terraform` `dotnet` `nodejs` `teamcity` `sonarqube` `elasticsearch` `linux` `nuget` `packer`
 
 ### 09.2016 – 02.2018
@@ -129,7 +124,6 @@ Responsibilities
 - Infrastructure as code project for NetScaler platform
 - Migration infrastructure to Azure
 
-Keywords  
 `puppet` `azure` `vsts` `powershell` `iis` `elasticsearch` `netscaler` `git` `ruby` `linux`
 
 ### 05.2016 – 08.2016
@@ -142,7 +136,6 @@ Responsibilities
 - Migration environment to AWS EC2, S3, IoT
 - Automation for building, packaging and deployment
 
-Keywords  
 `ansible` `aws` `python` `yaml` `git` `bash` `centos`
 
 ### 09.2015 – 07.2016
@@ -154,7 +147,6 @@ Responsibilities
 - Mentoring of software engineers team
 - Improvement of application life cycle process
 
-Keywords  
 - `jenkins` `jira` `svn` `redgate`
 - `java` `maven` `ant` `websphere`
 - `dotnet` `msbuild` `msdeploy` `nuget` `iis`
@@ -173,7 +165,6 @@ Responsibilities
 - Analysis of business requirements and application features
 - Managed team size up to five people
 
-Keywords  
 - `soa` `esb` `dwh` `etl`
 - `sap bi businessobjects`
 - `sas data danagement`
@@ -188,7 +179,6 @@ Responsibilities
 - Data warehousing
 - Application support and incident management
 
-Keywords  
 - `sap bi businessobjects`
 - `ibm mq mb` `weblogic` `tomcat`
 - `oracle` `pl/sql` `sqlserver` `dts` `ssis`
@@ -202,7 +192,6 @@ Responsibilities
 - Managing environment and infrastructure
 - Cisco networking
 
-Keywords  
 - `tcp/ip` `lan` `wan` `freebsd`
 - `C programming`
 
