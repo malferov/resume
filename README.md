@@ -8,6 +8,7 @@ Address    | The Hague, Netherlands
 
 ## SUMMARY
 Can Do.  
+Problem Solving.  
 Cloud engineering.  
 Transition to Kubernetes and Docker.  
 Automated deployment.  
@@ -45,6 +46,7 @@ positive attitude       | `more`
 negotiation             | `less`
 
 ## LINKS
+https://www.hackerrank.com/malferov
 https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch  
 http://www.ict.nsc.ru/jct/annotation/457?l=eng  
 https://github.com/malferov/hello  
