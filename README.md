@@ -70,6 +70,11 @@ English `IELTS 7.0`
 ## WORK EXPERIENCE
 ### side-projects
 
+#### 02.2020 dataformz.com
+Custom setup for Kibana and Elasticsearch running on Google Kubernetes Engine  
+
+`kubernetes` `helm` `kibana` `elasticsearch` `gitlab`
+
 #### 11.2019 - 12.2019 BigDataBoutique.com
 Creating container registry proxy  
 
