@@ -215,6 +215,12 @@ The ph. d. thesis was devoted to development of analytical system, and forecast
 http://en.wikipedia.org/wiki/Kemerovo_State_University  
 Specialist degree in **applied mathematics**
 
+### 1995 Physics and Mathematics Gymnasium
+Winner of Step Into The Future olympiad in Kemerovo in 1995. This olympiad is organised by Bauman Moscow State Technical University for schoolboys. For the contest I created an educational computer game for children, which was an electronical copy of well known "Make Square/Tangram".  
+https://olymp.bmstu.ru/en
+
+`borland pascal 7` `intel 80286`
+
 ## INTERESTS
 - RYA Yachtmaster Coastal
 - BHPA Club Pilot
