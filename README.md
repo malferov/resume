@@ -46,21 +46,17 @@ positive attitude       | `more`
 negotiation             | `less`
 
 ## LINKS
-https://www.hackerrank.com/malferov  
+https://linkedin.com/in/malferov  
 https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch  
 http://www.ict.nsc.ru/jct/annotation/457?l=eng  
-https://github.com/malferov/hello  
-https://github.com/malferov/kaas  
-https://github.com/malferov/iac  
-https://github.com/malferov/mintos  
 https://github.com/terraform-providers/terraform-provider-alicloud/commits?author=malferov  
-https://linkedin.com/in/malferov
+https://www.hackerrank.com/malferov  
 
-## COURSES AND TESTS
-- AWS Certified Solutions Architect - Associate - Practice (score 96%, `#1068317`)
-- Python Test Upwork (3.65 out of 5, Top 30% badge)
-- Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
+## COURSES AND CERTIFICATES
+- AWS Certified Solutions Architect - Associate (`#5GP2MM5KG1R1QKG4`)
 - Core Elasticsearch (Enrollment ID `#16698`)
+- Python Upwork Test (3.65 out of 5, Top 30% badge)
+- Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
 - Puppet practice exam `PPT-204` (score 85%)
 - SANS Cybersecurity Awareness Training
 
@@ -98,13 +94,16 @@ Safened rebrands successful KYC activities as Fourthline, https://www.fourthline
 **Senior DevOps Engineer**
 
 Responsibilities
-- I help our developers to deliver software product faster
+- Help our developers to deliver software product faster
+- Build shared services and frameworks
+- Provisioning, operating, and managing applications on the AWS platform
 
 Projects
 - HashiCorp Vault has been deployed in production environment
 - Kong API gateway with mTLS feature enabled (staging atm)
 - Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
 - Versioning and validating Azure Pipelines - transition to YAML syntax
+- SonarQube shared service
 
 `aws` `docker` `terraform` `azure devops` `dotnet` `kong` `vault` `etcd`
 
