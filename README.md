@@ -22,9 +22,9 @@ key             | value
 HCL + Terraform | `high`
 AWS             | `high`
 GCP             | `mid`
-Docker          | `mid`
+Docker          | `high`
 Kubernetes      | `mid`
-Python          | `high`
+Python          | `mid`
 Go              | `mid`
 Bash            | `high`
 Ansible         | `high`
@@ -55,16 +55,22 @@ https://www.hackerrank.com/malferov
 ## COURSES AND CERTIFICATES
 - AWS Certified Solutions Architect - Associate (`#5GP2MM5KG1R1QKG4`)
 - Core Elasticsearch (Enrollment ID `#16698`)
-- Python Upwork Test (3.65 out of 5, Top 30% badge)
-- Python 3 Tutorial (SoloLearn Certificate `#1073-1055029`)
-- Puppet practice exam `PPT-204` (score 85%)
 - SANS Cybersecurity Awareness Training
+- Python Upwork Test (3.65 out of 5, Top 30% badge)
+- Python 3 SoloLearn (Certificate `#1073-1055029`)
+- Puppet practice exam `PPT-204` (score 85%)
 
 ## FOREIGN LANGUAGE
 English `IELTS 7.0`
 
 ## WORK EXPERIENCE
 ### side-projects
+
+#### 05.2020 netping.org
+https://github.com/malferov/netping  
+Network tools web application  
+
+`golang` `kubernetes` `terraform` `github actions` `vue`
 
 #### 02.2020 dataformz.com
 Custom setup for Kibana and Elasticsearch running on Google Kubernetes Engine  
@@ -102,10 +108,10 @@ Projects
 - HashiCorp Vault has been deployed in production environment
 - Kong API gateway with mTLS feature enabled (staging atm)
 - Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
-- Versioning and validating Azure Pipelines - transition to YAML syntax
+- Versioning and validating CICD pipelines - transition to YAML syntax
 - SonarQube shared service
 
-`aws` `docker` `terraform` `azure devops` `dotnet` `kong` `vault` `etcd`
+`aws` `docker` `terraform` `cicd pipeline` `kong` `vault` `etcd`
 
 ### 03.2018 – 03.2019
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
@@ -115,10 +121,10 @@ https://wolterskluwer.com/company/newsroom/news/2018/10/wolters-kluwer-acquires-
 Responsibilities
 - Infrastructure as code with Terraform
 - Building and deploying .NET Core and Node.js applications
-- Alignment and operational stability of Teamcity CI pipeline
+- Alignment and operational stability of Teamcity CICD pipeline
 - SonarQube and Nightwatch to keep quality and velocity
 
-`aws` `terraform` `dotnet` `nodejs` `teamcity` `sonarqube` `elasticsearch` `linux` `nuget` `packer`
+`aws` `terraform` `teamcity` `sonarqube` `elasticsearch` `linux` `nuget` `packer`
 
 ### 09.2016 – 02.2018
 AerData B.V., a Boeing company, Amsterdam, http://aerdata.com  
@@ -224,6 +230,3 @@ https://olymp.bmstu.ru/en
 - RYA Yachtmaster Coastal
 - BHPA Club Pilot
 - chess.com
-
-## REFEREES
-Upon request
