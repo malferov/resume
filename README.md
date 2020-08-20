@@ -105,13 +105,14 @@ Responsibilities
 - Provisioning, operating, and managing applications on the AWS platform
 
 Projects
-- HashiCorp Vault has been deployed in production environment
-- Kong API gateway with mTLS feature enabled (staging atm)
+- Deployment of HashiCorp Vault as a KMS shared service
+- Containerized Kong API gateway with mTLS feature
 - Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
 - Versioning and validating CICD pipelines - transition to YAML syntax
 - SonarQube shared service
+- Develop an API service for submitting whitelisting requests from clients
 
-`aws` `docker` `terraform` `cicd pipeline` `kong` `vault` `etcd`
+`aws` `docker` `terraform` `golang` `cicd pipeline` `kong` `vault` `etcd`
 
 ### 03.2018 – 03.2019
 eVision Industry Software, PTW at oil and gas, The Hague, https://www.evision-software.com  
