@@ -214,7 +214,7 @@ Responsibilities
 #### Institute of Coal and Coal Chemistry
 http://en.wikipedia.org/wiki/Russian_Academy_of_Sciences  
 Postgraduate study, **Ph.D.**  
-Mathematical modeling, Numerical methods and Programs  
+Mathematical modelling, Numerical methods and Programs  
 The ph. d. thesis was devoted to development of analytical system, and forecasting of technical and economic indices of coal enterprises for short-term period. This research uses technology of artificial neural networks.
 
 ### 1995 – 2000 Kemerovo State University
