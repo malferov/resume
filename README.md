@@ -106,7 +106,7 @@ Responsibilities
 
 Projects
 - Deployment of HashiCorp Vault as a KMS shared service
-- Containerized Kong API gateway with mTLS feature
+- Containerized Kong API gateway with mTLS feature, https://api.fourthline.com
 - Cloud infrastructure as code for Fourthline Dashboard application, https://dashboard.fourthline.com
 - Versioning and validating CICD pipelines - transition to YAML syntax
 - SonarQube shared service
@@ -231,3 +231,5 @@ https://olymp.bmstu.ru/en
 - RYA Yachtmaster Coastal
 - BHPA Club Pilot
 - chess.com
+- Climbing
+- Kiteboarding
